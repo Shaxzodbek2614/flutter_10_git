@@ -8,11 +8,7 @@ class ThirdPage extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Container(
-          child: Column(
-            children: [
-              Text("as")
-            ]
-          ),
+          color: Colors.red,
         ),
       ),
     );
